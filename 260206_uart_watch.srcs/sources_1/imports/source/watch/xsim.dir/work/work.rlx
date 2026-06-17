@@ -1,0 +1,6 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+c:/Ondevice_dongwoo/260206_uart_watch/260206_uart_watch.srcs/sources_1/imports/source/watch/control_unit.v,1770705561,verilog,,,,control_unit,,,,,,,,
+c:/Ondevice_dongwoo/260206_uart_watch/260206_uart_watch.srcs/sources_1/imports/source/watch/top_stopwatch_watch.v,1781738947,verilog,,,,ascii_decoder;ascii_sender;mux_2x1_watch_stopwatch;stopwatch_datapath;tick_counter;tick_gen_100hz;top_stopwatch_watch;watch_datapath,,,,,,,,
